@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "chamboug.js-auto-backticks",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "orta.vscode-twoslash-queries",
+    "dbaeumer.vscode-eslint"
+  ]
+}
