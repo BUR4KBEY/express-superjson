@@ -1,7 +1,7 @@
 {
   "name": "express-superjson",
   "version": "1.0.0",
-  "description": "Express middleware for SuperJSON integration, providing enhanced JSON serialization in HTTP responses.",
+  "description": "Express middleware for Superjson integration, providing enhanced JSON serialization in HTTP responses.",
   "author": "BurakBey",
   "license": "MIT",
   "main": "./dist/index.js",

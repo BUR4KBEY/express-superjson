@@ -1,3 +1,9 @@
+[![NPM Version](https://img.shields.io/npm/v/express-superjson?style=for-the-badge&logo=npm&color=blue&cacheSeconds=3600)](https://npmjs.com/package/express-superjson)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/bur4kbey/express-superjson/test.yml?style=for-the-badge&label=tests&cacheSeconds=3600)](https://github.com/BUR4KBEY/express-superjson/actions/workflows/test.yml)
+[![Codecov](https://img.shields.io/codecov/c/github/bur4kbey/express-superjson?style=for-the-badge&cacheSeconds=3600)](https://app.codecov.io/gh/BUR4KBEY/express-superjson)
+[![GitHub License](https://img.shields.io/github/license/bur4kbey/express-superjson?style=for-the-badge)](https://github.com/BUR4KBEY/express-superjson/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/bur4kbey/express-superjson?style=for-the-badge&label=%E2%AD%90%20STARS&color=yellow&cacheSeconds=3600)](https://github.com/BUR4KBEY/express-superjson)
+
 # 🔄 [express-superjson](https://npmjs.com/package/express-superjson)
 
 Express middleware that seamlessly integrates [Superjson](https://github.com/blitz-js/superjson) into your Express.js applications, enabling automatic handling of JavaScript built-in types in HTTP responses.
@@ -44,6 +50,10 @@ Send a **GET** request to `http://localhost:3000` and you'll receive a **Superjs
   }
 }
 ```
+
+## 🧪 Code Coverage and Tests
+
+Tests are crucial for ensuring that the library functions as expected. You can review the code coverage reports by visiting [**Codecov**](https://app.codecov.io/gh/BUR4KBEY/express-superjson). The primary objective is to achieve complete coverage of the entire codebase through rigorous testing.
 
 ## ☕ Support
 
